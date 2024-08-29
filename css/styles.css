@@ -83,6 +83,22 @@
   --bs-highlight-bg: #faf4e0;
 }
 
+.color{
+  background-image: linear-gradient(rgb(126, 92, 0), rgb(124, 75, 0), rgb(73, 48, 0), rgb(0, 0, 0));
+}
+.color2{
+  background-image: linear-gradient(rgb(190, 190, 190), rgb(121, 121, 121), rgb(100, 100, 100), rgb(0, 0, 0));
+}
+.color3{
+  background-image: linear-gradient(rgb(138, 0, 0), rgb(80, 0, 0), rgb(68, 0, 0), rgb(0, 0, 0));
+}
+.color4{
+  background-image: linear-gradient(rgb(0, 78, 131), rgb(0, 54, 90), rgb(0, 40, 66), rgb(0, 0, 0));
+}
+
+
+
+
 *,
 *::before,
 *::after {
